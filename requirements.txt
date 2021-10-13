@@ -1,0 +1,5 @@
+pyqt5
+opencv-python
+cmake
+face_recognition
+pandas
